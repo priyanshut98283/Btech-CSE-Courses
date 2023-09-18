@@ -1,0 +1,22 @@
+Learning Outcomes->
+
+1. Understand and apply fundamental concepts of Python programming.
+
+2. Write Python code to solve basic computational problems.
+
+3. Create programs using conditional statements, loops, and functions.
+
+4. Manipulate data using Python's built-in data structures (lists, dictionaries, tuples).
+
+5. Develop a foundational understanding of object-oriented programming (OOP)
+principles.
+
+6. Handle exceptions and errors in Python programs.
+
+7. Utilize Python's standard library to perform common tasks.
+
+8. Design and implement a simple Python project.
+
+9. Apply problem-solving skills to coding challenges.
+
+10. Collaborate with peers in coding discussions and project work.
