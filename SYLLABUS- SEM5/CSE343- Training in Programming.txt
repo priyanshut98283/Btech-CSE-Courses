@@ -10,7 +10,7 @@ Learning Outcomes->
 
 5. Develop a foundational understanding of object-oriented programming (OOP)
 principles.
-
+      
 6. Handle exceptions and errors in Python programs.
 
 7. Utilize Python's standard library to perform common tasks.
