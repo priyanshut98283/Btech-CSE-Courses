@@ -1,0 +1,2 @@
+1) Completed Winter training in react native from 10 January 2024 to 10 feb 2024 having 24 hrs / week classes. 
+2) Learnt Expo and React native cli to build apps.
